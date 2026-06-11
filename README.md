@@ -1,4 +1,4 @@
 # BudeApp.-DOCX
 ## Diagrama de Gantt
 
-![Diagrama de Gantt](gantt.png)
+![Diagrama de Gantt](gantt.png.jpg)
